@@ -1,0 +1,14 @@
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\bin\Debug\net8.0\Ex5.9.exe
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\bin\Debug\net8.0\Ex5.9.deps.json
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\bin\Debug\net8.0\Ex5.9.runtimeconfig.json
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\bin\Debug\net8.0\Ex5.9.dll
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\bin\Debug\net8.0\Ex5.9.pdb
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.AssemblyInfoInputs.cache
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.AssemblyInfo.cs
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.csproj.CoreCompileInputs.cache
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.dll
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\refint\Ex5.9.dll
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.pdb
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\Ex5.9.genruntimeconfig.cache
+C:\Users\Other\source\repos\Ex5.9\Ex5.9\obj\Debug\net8.0\ref\Ex5.9.dll

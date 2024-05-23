@@ -1,32 +1,23 @@
-﻿using System;
-using System.Net;
-using System.Text;
-using System.Threading.Channels;
 class Program
 {
     static void Main(string[] args)
     {
-        int Nb, Nbpos, Nbneg;
-        int[] T;
-        Console.WriteLine("Entrez le nombre de valeurs :");
-        Nb = Convert.ToInt16(Console.ReadLine());
-        T = new int[Nb];
-        Nbpos = 0;
-        Nbneg = 0;
-        for (int i = 0; i <= Nb - 1; i++)
+        int N, i, PG, IPG;
+        N = 1;
+        PG = 0;
+        i = 0;
+        while(N != 0)
         {
-            Console.WriteLine("Entrez le nombre n° " + (i + 1));
-            T[i] = Convert.ToInt16(Console.ReadLine());
-            if (T[i] > 0)
+            Console.WriteLine("Entrez un nombre : ");
+            N = Convert.ToInt32(Console.ReadLine());
+            i++;
+            if(N == 1 || N > PG)
             {
-                Nbpos = Nbpos + 1;
-            }
-            else
-            {
-                Nbneg = Nbneg + 1;
+                PG = N;
+                IPG = i;
             }
         }
-        Console.WriteLine("Nombre de valeurs positives : " + Nbpos);
-        Console.WriteLine("Nombre de valeurs négatives : " + Nbneg);
+        Console.WriteLine("Le nombre le plus grand était : " + PG);
+        Console.WriteLine("Il a été saisi en position numéro "+ IPG);
     }
 }

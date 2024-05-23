@@ -2,30 +2,54 @@
 using System.Net;
 using System.Text;
 using System.Threading.Channels;
+using static AdnaneTools;
 class Program
 {
     static void Main(string[] args)
     {
-        int Nb, i, S;
-        int[] t;
-        Console.WriteLine("Entrez le nombre de valeurs :");
-        Nb = Convert.ToInt16(Console.ReadLine());
-        t = new int[Nb];
-        for (i = 0; i <= Nb - 1; i++)
+        int totalValeurs, indexASupprimer;
+        int[] tableauInitial;
+        
+        totalValeurs = GetPositifInt32("Entrez le nombre de valeurs :");
+        tableauInitial = new int[totalValeurs];
+        for (int i = 0; i <= totalValeurs - 1; i++)
         {
-            Console.WriteLine("Entrez le nombre n° " + (i + 1));
-            t[i] = Convert.ToInt16(Console.ReadLine());
-        }
-        Console.WriteLine("Rang de la valeur à supprimer ?");
-        S = Convert.ToInt16(Console.ReadLine());
-        for (i = S; i <= Nb - 2; i++)
-        {
-            t[i] = t[i+1];
-        }
-        for (i = 0; i <= Nb - 2; i++)
-        {
-            Console.WriteLine(t[i]);
+            tableauInitial[i] = GetPositifInt32("Entrez le nombre n° " + (i + 1));
         }
         
-    }   
+        indexASupprimer = GetPositifInt32("Rang de la valeur à supprimer ?");
+        if(indexASupprimer > totalValeurs-1)
+        {
+            Console.WriteLine("Rang invalide. L'application va se terminer.");
+            return;
+        }
+
+        int[] tableauRedimentionne = new int[totalValeurs - 1];
+
+        int ic = 0;
+        for (int i = 0; i <= totalValeurs - 1; i++)
+        {
+            if (i != indexASupprimer)
+                tableauRedimentionne[ic++] = tableauInitial[i];
+        }
+        
+        
+        for (int i = 0; i <= tableauRedimentionne.Length; i++)
+        {
+            Console.WriteLine(tableauRedimentionne[i]);
+        }
+        
+    }
+
+
 }
+
+/*
+     for (int i = indexASupprimer; i <= totalValeurs - 2; i++)
+            tableauInitial[i] = tableauInitial[i+1];
+
+        for (int i = 0; i < totalValeurs-2; i++)
+        {
+            tableauRedimentionne[i] = tableauInitial[i];
+        }
+        */

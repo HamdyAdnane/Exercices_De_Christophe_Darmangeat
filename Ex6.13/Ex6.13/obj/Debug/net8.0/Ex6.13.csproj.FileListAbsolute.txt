@@ -1,0 +1,14 @@
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\bin\Debug\net8.0\Ex6.13.exe
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\bin\Debug\net8.0\Ex6.13.deps.json
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\bin\Debug\net8.0\Ex6.13.runtimeconfig.json
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\bin\Debug\net8.0\Ex6.13.dll
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\bin\Debug\net8.0\Ex6.13.pdb
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.AssemblyInfoInputs.cache
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.AssemblyInfo.cs
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.csproj.CoreCompileInputs.cache
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.dll
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\refint\Ex6.13.dll
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.pdb
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\Ex6.13.genruntimeconfig.cache
+C:\Users\Other\source\repos\Ex6.13\Ex6.13\obj\Debug\net8.0\ref\Ex6.13.dll

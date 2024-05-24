@@ -1,27 +1,23 @@
-﻿using System;
-using System.Net;
-using System.Text;
-using System.Threading.Channels;
 class Program
 {
     static void Main(string[] args)
     {
-        int[,] X = new int[1, 2];
+        int[,] T = new int[2, 3];
         int i, j, Val;
         Val = 1;
-        for (i = 0; i <= 1; i++)
+        for (i = 0; i < 2; i++)
         {
-            for (j = 0; i <= 2; j++)
+            for (j = 0; j < 3; j++)
             {
-                X[i, j] = Val;
+                T[i, j] = Val;
                 Val++;
             }
         }
-        for (i = 0; i <= 1; i++)
+        for (i = 0; i < 2; i++) 
         {
-            for (j = 0; i <= 2; j++)
+            for (j = 0; j < 3; j++)
             {
-                Console.WriteLine(X[i, j]);
+                Console.WriteLine(T[i, j]);
             }
         }
 

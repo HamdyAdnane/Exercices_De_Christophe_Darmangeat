@@ -1,0 +1,14 @@
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\bin\Debug\net8.0\Ex8.6.exe
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\bin\Debug\net8.0\Ex8.6.deps.json
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\bin\Debug\net8.0\Ex8.6.runtimeconfig.json
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\bin\Debug\net8.0\Ex8.6.dll
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\bin\Debug\net8.0\Ex8.6.pdb
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.AssemblyInfoInputs.cache
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.AssemblyInfo.cs
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.csproj.CoreCompileInputs.cache
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.dll
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\refint\Ex8.6.dll
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.pdb
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\Ex8.6.genruntimeconfig.cache
+C:\Users\Other\source\repos\Ex8.6\Ex8.6\obj\Debug\net8.0\ref\Ex8.6.dll

@@ -1,0 +1,14 @@
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\bin\Debug\net8.0\Ex11.8.exe
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\bin\Debug\net8.0\Ex11.8.deps.json
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\bin\Debug\net8.0\Ex11.8.runtimeconfig.json
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\bin\Debug\net8.0\Ex11.8.dll
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\bin\Debug\net8.0\Ex11.8.pdb
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.AssemblyInfoInputs.cache
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.AssemblyInfo.cs
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.csproj.CoreCompileInputs.cache
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.dll
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\refint\Ex11.8.dll
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.pdb
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\Ex11.8.genruntimeconfig.cache
+C:\Users\Other\source\repos\Ex11.8\Ex11.8\obj\Debug\net8.0\ref\Ex11.8.dll

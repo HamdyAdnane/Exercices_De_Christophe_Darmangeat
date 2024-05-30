@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     public static void Main(string[] args)
     {
@@ -11,13 +11,7 @@
     {
         int ic = 0;
         while (ic < Mot.Length)
-        {
-            if (Mot != null)
-            {
-                ic++;
-            }
-        }
+        ic++;
         Console.WriteLine("Ce mot compte "+ ic + " lettres");
     }
 }
-

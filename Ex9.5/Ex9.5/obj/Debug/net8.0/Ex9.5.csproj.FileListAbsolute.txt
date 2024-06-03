@@ -1,0 +1,14 @@
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\bin\Debug\net8.0\Ex9.5.exe
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\bin\Debug\net8.0\Ex9.5.deps.json
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\bin\Debug\net8.0\Ex9.5.runtimeconfig.json
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\bin\Debug\net8.0\Ex9.5.dll
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\bin\Debug\net8.0\Ex9.5.pdb
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.AssemblyInfoInputs.cache
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.AssemblyInfo.cs
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.csproj.CoreCompileInputs.cache
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.dll
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\refint\Ex9.5.dll
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.pdb
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\Ex9.5.genruntimeconfig.cache
+C:\Users\4B\source\repos\Ex9.5\Ex9.5\obj\Debug\net8.0\ref\Ex9.5.dll
